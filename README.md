@@ -1,11 +1,17 @@
 # CREATION-OF-DATA-BASE-AND-TABLES-IN-SQL
 
 # SKILLS APPLIED
+
 Creating Databases
+
 Creating Tables
+
 Inserting values into tables
+
 Adding constraints to columns in a table
+
 Retrieving information using SELECT
+
 Altering table structure
 
 The screenshot below shows the syntax used in creating the database STUDENT_RECORD and the tableS STUDENT_INFO, HEALTH_RECORD, and PERFOMANCE.
